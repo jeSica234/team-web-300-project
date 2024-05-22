@@ -39,24 +39,7 @@ Follow these steps to install the project:
     - Import the `database.sql` file located in the root directory of the project.
 
 3. Configure the database connection
-    - Edit the `config.php` file and update your database credentials:
-    php
-    <?php
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "fee_payment_system";
-
-    $conn = new mysqli($servername, $username, $password, $dbname);
-
-    if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
-    }
-    ?>
-    ```
-
-4. Run the application
-    - Open the project in your web browser: http://localhost/online-fee-payment-system.
+ 
 
 ## Usage
 
@@ -76,17 +59,9 @@ Contributions are welcome! Follow these steps:
 4. Push to the branch: git push origin feature-name.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-
-## Contact
-
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/your-username/online-fee-payment-system](https://github.com/your-username/online-fee-payment-system) 
+Project Link: [https://github.com/jeSica234/team-web-300-project](https://github.com/jeSica234/team-web-300-project)
 
 
 <img width="932" alt="dues" src="https://github.com/jeSica234/team-web-300-project/assets/166191795/c1cb63fe-011e-4e7e-a12d-fae76d784438">
