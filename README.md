@@ -10,8 +10,7 @@ An online fee payment system built with PHP and MySQL.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
